@@ -12,10 +12,10 @@ Dashboard com principais indicadores de serviços públicos que passaram por um 
 
 2. Articulação para publicação de camadas de dados de atendimento ao cidadão no [GeoSampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx) (seção "Atendimento ao Cidadão SP156"), de modo a facilitar a visualização de dados para um público amplo e aproximar a população das demandas do seu território
 
-### Produção de relatórios para os gabinetes das secretarias, autarquias e empresas públicas
+### Suporte a decisões estratégicas: produção de relatórios para os gabinetes das secretarias, autarquias e empresas públicas
 
-Desenvolvimento de aplicação em Python para extração, tratamento e agregação de dados, bem como para geração de automática de gráficos para cada um dos órgãos públicos. Os dados e gráficos gerados são reunidos em relatórios no Canva. Com o monitoramento mais próximo dos dados, em conjunto com outras ações, o estoque de demandas não atendidas apresentou uma redução de cerca de 69% em um período de 4 anos.
+Desenvolvimento de aplicação em Python para extração, tratamento e agregação de dados, bem como para geração de automática de gráficos para construção de relatórios para cada um dos órgãos públicos. Os dados e gráficos gerados são reunidos em relatórios no Canva. Com o monitoramento mais próximo dos dados, em conjunto com outras ações, o estoque de demandas não atendidas apresentou uma redução de cerca de 69% em um período de 4 anos.
 
-### Proposição de índice de risco 
+### Proposição de índice de criticidade
 
 Desenvolvimento de metodologia para priorização de demandas relacionadas a árvores localizadas em áreas públicas, com o objetivo de reduzir acidentes provocados por quedas. O estudo realizado está disponível [aqui](https://drive.google.com/file/d/1ZhwWKLPlrIYOofxAVL7Tq5_OFiZqsiBr/view?usp=sharing )
