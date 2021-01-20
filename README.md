@@ -12,7 +12,9 @@ Dashboard com principais indicadores de serviços públicos que passaram por um 
 
 1. Desenvolvimento de aplicação em Python para extração e tratamento dos [conjuntos de dados](http://dados.prefeitura.sp.gov.br/dataset/dados-do-sp156#:~:text=Os%20dados%20do%20SP156%20referem,de%20problemas%20existentes%20na%20cidade.) publicados no Portal de Dados Abertos e produção de [boletim](http://dados.prefeitura.sp.gov.br/dataset/dados-do-sp156/resource/893f3236-cfea-4f99-b946-d02c6d5dfd31) com os principais números
 
-2. Articulação para publicação de camadas de dados de atendimento ao cidadão no [GeoSampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx) (seção "Atendimento ao Cidadão SP156"), de modo a facilitar a visualização de dados para um público amplo e aproximar a população das demandas do seu território
+2. Articulação para publicação de camadas de dados de atendimento ao cidadão no [GeoSampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx) (seção "Atendimento ao Cidadão SP156"), de modo a facilitar a visualização de dados georreferenciados para um público amplo e aproximar a população das demandas do seu território
+
+3. Especificação e avaliação de uma API Pública, em etapas finais de teste, para permitir que desenvolvedores tenham acesso a dados em tempo real para desenvolvimento de soluções para problemas públicos 
 
 #### Suporte a decisões estratégicas: produção de relatórios para os gabinetes das secretarias, autarquias e empresas públicas
 
