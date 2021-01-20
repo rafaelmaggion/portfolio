@@ -31,6 +31,6 @@ Desenvolvimento de metodologia para priorização de demandas relacionadas a ár
 Como resultado do trabalho de conclusão de curso da minha graduação em Políticas Públicas na Universidade Federal do ABC, realizei uma análise com o objetivo de estudar a execução orçamentária da função Saúde nos sete municípios da região do ABC Paulista (Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo e
 São Caetano do Sul), entre os anos de 2009 e 2017, e avaliar o impacto do gasto financeiro nos indicadores de cobertura e efetividade da Atenção Básica no mesmo período. O relatório produzido está disponível [aqui](https://drive.google.com/file/d/1iB0X6gPvRdodSeXBc3idywGo-COFA9Rs/view)
 
-#### Análise das ações dos municípios do ABC Paulista no início do enfrentamento da pandemia de Covid-19
+#### Análise das ações dos municípios do ABC Paulista para o enfrentamento da pandemia de Covid-19
 
 A convite do Núcleo de Estudos sobre Política Local, da Universidade Federal de Juiz de Fora, escrevi, em parceria com dois professores da Universidade Federal do ABC, um artigo para uma série de estudos acerca da atuação dos municípios brasileiros no enfrentamento à pandemia. O artigo está disponível [aqui](https://nepolufjf.wordpress.com/2020/05/20/governos-municipais-em-cooperacao-para-o-enfrentamento-da-covid-19-o-caso-do-abc-paulista/?fbclid=IwAR3Q1S3jPUkyv92k3e1Tbg0EVDNe87TIZP9Vm9YJKNhBe9nwNKn_CCUcpDY)
