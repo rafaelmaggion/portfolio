@@ -2,7 +2,7 @@
 
 ### Atuação profissional
 
-Apresento aqui alguns trabalhos dos quais fiz parte ao longo da minha trajetória na Secretaria Municipal de Inovação e Tecnologia da Prefeitura de São Paulo analisando dados de atendimento ao cidadão e serviços públicos.
+Apresento aqui alguns trabalhos dos quais fiz parte ao longo da minha trajetória na Secretaria Municipal de Inovação e Tecnologia da Prefeitura de São Paulo analisando dados relacionados a atendimento ao cidadão e serviços públicos.
 
 #### Produção de Dashboards
 
